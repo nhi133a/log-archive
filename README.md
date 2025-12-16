@@ -16,6 +16,14 @@ This program is designed to automate log management on Linux systems, compressin
 - Compress these log files into a single .tar.gz file.
 ## Get started
 ### Step 1
+Create file log-archive
+```
+nano log_archive_interactive.sh
+```
+change permissions
+```
+chmod +x
+```
 
 ```
 /var/log/archive/logs_archive_20251215_104437.tar.gz
