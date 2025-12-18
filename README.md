@@ -27,7 +27,7 @@ Run the script
 ```
 ./log-archive.sh
 ```
-
+After run the script, appear:
 ```
 /var/log/archive/logs_archive_20251215_104437.tar.gz
 ```
