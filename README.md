@@ -20,11 +20,15 @@ Create file log-archive
 ```
 nano log_archive_interactive.sh
 ```
-change permissions
 ```
-chmod +x
+chmod +x log-archive.sh
+```
+Run the script
+```
+./log-archive.sh
 ```
 
 ```
 /var/log/archive/logs_archive_20251215_104437.tar.gz
 ```
+
